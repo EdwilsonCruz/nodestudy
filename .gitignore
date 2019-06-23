@@ -1,0 +1,11 @@
+# ignore all json
+*.json
+*.log
+
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+/publico
+npm-debug.log*
